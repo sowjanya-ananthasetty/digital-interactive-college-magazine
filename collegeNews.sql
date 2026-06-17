@@ -2,7 +2,8 @@
 SQLyog Ultimate v11.33 (64 bit)
 MySQL - 5.0.45-community-nt : Database - newsportal
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
@@ -49,7 +50,7 @@ CREATE TABLE `login` (
 
 /*Data for the table `login` */
 
-insert  into `login`(`username`,`password`,`auth`) values ('admin@gmail.com','admin',0),('jakkamohanakrishnapriya@gmail.com','krishna',1),('mr.s.srikanthbabu@gmail.com','sravani',1),('s.srikanthbabu2011@gmail.com','bujji',1),('shakeera.shaik911@gmail.com','Shakeera',1),('sowjanyaananthasetty07@gmail.com','Sowjanya',1),('sowmyaananthasetty@gmail.com','sowjanya',1),('sushamanimmagadda@gmail.com','bujji',1);
+insert  into `login`(`username`,`password`,`auth`) values ('admin@gmail.com','admin',0),('jakkamohanakrishnapriya@gmail.com','krishna',1),('shakeera.shaik911@gmail.com','Shakeera',1),('sowjanyaananthasetty07@gmail.com','Sowjanya',1),('sowmyaananthasetty@gmail.com','sowjanya',1);
 
 /*Table structure for table `register` */
 
